@@ -4,6 +4,11 @@ https://guides.github.com/activities/hello-world/
 # hello-world
 The Hello World project
 
+- Create Repository
+- Create Branch
+  - The main Branch
+  - The new branch called feature
+  - When a change is ready, developers merge the changes in feature branch into main branch.
 
 Make and commit changes
 Click the README.md file.
